@@ -1,0 +1,72 @@
+body {
+	background-color: #292929!important;
+}
+
+svg {
+	height: 500px;
+	width: 860px;
+	margin: auto;
+}
+
+
+svg:hover
+{
+
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-moz-transform: scale(1.2);
+
+
+box-shadow: 0 0 20px #ec5c0e;;
+-moz-box-shadow: 0 0 40px #ec5c0e;;
+-webkit-box-shadow: 0 0 40px #ec5c0e;;
+
+
+}
+image:hover
+{
+box-shadow: 0 0 20px #ffffff;;
+-moz-box-shadow: 0 0 40px #fff;;
+-webkit-box-shadow: 0 0 40px #fff;;
+}
+
+
+.GameName {
+ 	font-family: 'Calligraph', arial;
+	float: left;
+	font-size:2.5rem;
+	color: #FFFFFF;
+}
+
+header {
+	margin-top: 3rem;
+}
+
+section {
+	margin-top: 2rem;
+}
+
+
+.btn {
+	background:url(../img/dictionary.svg);
+
+	width: 3rem;
+	height: 3rem;
+
+}
+
+.btn:hover
+{
+
+
+transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+
+
+box-shadow: 0 0 20px #ec5c0e;;
+-moz-box-shadow: 0 0 40px #ec5c0e;;
+-webkit-box-shadow: 0 0 40px #ec5c0e;;
+
+
+}
